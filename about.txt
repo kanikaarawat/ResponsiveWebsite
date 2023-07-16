@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <meta name="viewpoint" content="width=device-width">
+       <meta name="description" content=" Affordable and professional web design">
+       <meta name="keywords" content="web design, affordable web design, professional web design">
+       <meta name="author" content="Kanika Rawat">
+       <title> CryptAura Web Design | About</title>
+       <link rel="stylesheet" href="Style.css">
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div id="branding">
+                    <h1><span class="highlight">CryptAura </span>Web Design</h1>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li class="current"><a href="about.html">About</a></li>
+                        <li><a href="services.html">Services</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <section id="newsletter">
+            <div class="container">
+            <h1>Subscribe To Our Newsletter</h1>
+            <form>
+                <input type="email" placeholder="Enter Email...">
+                <button type="submit" class="button_1">Subscribe</button>
+            </form>
+        </div>
+        </section>
+
+        <section id="main">
+            <div class="container">
+            <article id="main-col">
+                 <h1 class="page-title">About Us</h1>
+                 <p>
+                    Welcome to my personal web development journey! I am an aspiring web developer, eager to dive into the exciting world of HTML5, CSS3, and JavaScript. This website serves as my platform to showcase my progress and share my passion for web development with the world.
+                 </p>
+                 <p>
+                    Although I may be new to web development, I am fueled by curiosity and a strong desire to learn. Through this website, I aim to document my growth, experiment with different techniques, and showcase my evolving skills. Join me on this exciting adventure as I embark on my first steps towards becoming a proficient web developer.
+                 </p>
+            </article>
+            <aside id="sidebar">
+                <div class="dark">
+                <h3>What We Do</h3>
+                <p>
+                    I focus on providing high-quality web development services tailored to your needs. From conceptualizing and designing your website to coding and optimization, I handle every aspect of the process. With my expertise in HTML5, CSS3, and JavaScript, I create responsive and visually appealing websites that leave a lasting impression. 
+                </p>
+            </div>
+            </aside>
+            </div>
+        </section>
+        <footer>
+           <p>CryptAura Web Design, Copyright &copy; 2023</p> 
+        </footer>
+    </body>
+</html>
